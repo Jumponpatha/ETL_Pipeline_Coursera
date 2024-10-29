@@ -17,7 +17,7 @@ https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBMDeveloperS
 
 Complete the following practice exercises:
 
-1. Create a folder data_source and use the terminal shell to change the current directory to \home\project\data_source. Create a file etl_practice.py in this folder.
+1. Create a folder data_source and use the terminal shell to change the current directory to \home\project\data_source. Create a file etl_code.py in this folder.
 
 2. Download and unzip the data available in the link shared above.
 
